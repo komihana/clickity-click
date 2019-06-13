@@ -1,10 +1,15 @@
 import React from 'react';
 import './App.css';
-import Navi from './component/navi/navi'
+import Navibar from './component/Navi/Navibar'
+import Bod from './component/Bod/Bod';
+
 
 function App() {
   return (
-    <Navi />
+    <div>
+      <Navibar />
+      <Bod />
+    </div>
   );
 }
 
