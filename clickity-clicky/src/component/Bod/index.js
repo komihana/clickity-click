@@ -1,5 +1,5 @@
 import React from "react";
-import Groupies from '../Groupies/Groupies';
+import Groupies from '../Groupies';
 
 function Bod () { 
     return (

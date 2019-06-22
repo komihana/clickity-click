@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "image": "https://cconnect.s3.amazonaws.com/wp-content/uploads/2013/12/Anchorman-Trading-Cards-1-Ron-Bugundy.jpg", 
+        "name": "Ron Burgandy",
+        "didyouclick": false
+    },
+    {
+        "id": 2,
+        "image": "https://cconnect.s3.amazonaws.com/wp-content/uploads/2013/12/Anchorman-Trading-Cards-2-Veronica-Corningstone.jpg", 
+        "name": "Veronica Corningstone",
+        "didyouclick": false
+    },
+    {
+        "id": 3,
+        "image": "https://cconnect.s3.amazonaws.com/wp-content/uploads/2013/12/Anchorman-Trading-Cards-3-Brian-Fantana.jpg", 
+        "name": "Brian Fantana",
+        "didyouclick": false
+    },
+    {
+        "id": 4,
+        "image": "https://cconnect.s3.amazonaws.com/wp-content/uploads/2013/12/Anchorman-Trading-Cards-4-Brick-Tamland.jpg", 
+        "name": "Brick Tamland",
+        "didyouclick": false
+    },
+    {
+        "id": 5,
+        "image": "https://cconnect.s3.amazonaws.com/wp-content/uploads/2013/12/Anchorman-Trading-Cards-5-Champ-Kind.jpg", 
+        "name": "Champ Kind",
+        "didyouclick": false
+    },
+    {
+        "id": 6,
+        "image": "https://cconnect.s3.amazonaws.com/wp-content/uploads/2013/12/Anchorman-Trading-Cards-6-Ed-Harken.jpg", 
+        "name": "Ed Harken",
+        "didyouclick": false
+    },
+    {
+        "id": 7,
+        "image": "https://cconnect.s3.amazonaws.com/wp-content/uploads/2013/12/Anchorman-Trading-Cards-7-Wes-Mantooth.jpg", 
+        "name": "Wes Mantooth",
+        "didyouclick": false
+    },
+    {
+        "id": 8,
+        "image": "https://cconnect.s3.amazonaws.com/wp-content/uploads/2013/12/Anchorman-Trading-Cards-8-Frank-Vitchard.jpg", 
+        "name": "Frank Vitchard",
+        "didyouclick": false
+    },
+    {
+        "id": 9,
+        "image": "https://cconnect.s3.amazonaws.com/wp-content/uploads/2013/12/Anchorman-Trading-Cards-9-Chip-McGee.jpg", 
+        "name": "Chip McGee",
+        "didyouclick": false
+    },
+    {
+        "id": 10,
+        "image": "https://cconnect.s3.amazonaws.com/wp-content/uploads/2013/12/Anchorman-Trading-Cards-10-Arturo-Mendes.jpg", 
+        "name": "Arturo Mendes",
+        "didyouclick": false
+    },
+    {
+        "id": 11,
+        "image": "https://cconnect.s3.amazonaws.com/wp-content/uploads/2013/12/Anchorman-Trading-Cards-11-Steve-Graff.jpg", 
+        "name": "Steve Graff",
+        "didyouclick": false
+    },
+    {
+        "id": 12,
+        "image": "https://cconnect.s3.amazonaws.com/wp-content/uploads/2013/12/Anchorman-Trading-Cards-12-Jess-Moondragon.jpg", 
+        "name": "Jess Moondragon",
+        "didyouclick": false
+    }
+]
