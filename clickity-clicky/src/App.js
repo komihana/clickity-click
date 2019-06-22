@@ -108,7 +108,7 @@ class App extends React.Component {
     const { characters } = this.state;
 
     const charCards = characters.map(cardCharz => (
-      <CardiB {...cardCharz} clickCardz={this.handleCard} key={cardCharz.id} />
+      <CardiB {...cardCharz} clickCards={this.handleCard} key={cardCharz.id} />
     ));
 
     return (
@@ -130,7 +130,7 @@ class App extends React.Component {
             className={this.state.guessed !== null ? 
               (this.state.guessed ? 
                 "wrapper-content" :           // true
-                "shake wrapper-content" ) :   // false
+                "twerk wrapper-content" ) :   // false
                 "wrapper-content"}            // false
             >  
             {charCards}
